@@ -7,8 +7,8 @@ Welcome to the **LearnHUB** project repository! This repository is organized int
 
 | Folder                                                               | Description                                                       |
 | :------------------------------------------------------------------- | :---------------------------------------------------------------- |
-| **[Project Files](file:///c:/Users/homeu/LearnHub/Project%20Files)** | **The core source code (MERN Stack).** Start here to run the app. |
-| **[Document](file:///c:/Users/homeu/LearnHub/Document)**             | Project documentation, reports, and design diagrams.              |
+| **[Project Files](file:///c:/Users/homeu/LearnHub/Project%20Files)** | **The core source code (MERN Stack).**Start here to run the app. |
+| **[Document](file:///c:/Users/homeu/LearnHub/Document)**             | Project documentation, reports, and design diagrams.             |
 | **[Video Demo](file:///c:/Users/homeu/LearnHub/Video%20Demo)**       | Visual demonstrations of features and system workflows.           |
 
 
