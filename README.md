@@ -2,7 +2,6 @@
 
 Welcome to the **LearnHUB** project repository! This repository is organized into distinct areas for documentation, project source code, and demonstration media.
 
----
 
 ## 📂 Repository Structure
 
@@ -12,7 +11,6 @@ Welcome to the **LearnHUB** project repository! This repository is organized int
 | **[Document](file:///c:/Users/homeu/LearnHub/Document)**             | Project documentation, reports, and design diagrams.              |
 | **[Video Demo](file:///c:/Users/homeu/LearnHub/Video%20Demo)**       | Visual demonstrations of features and system workflows.           |
 
----
 
 ## 🚀 Quick Start (Run Locally)
 
@@ -20,23 +18,20 @@ If you just want to get the application running, follow these steps from this ro
 
 ### 1. Start the Backend
 
-```bash
+bash
 cd "Project Files/backend"
 npm install
 npm start
-```
 
 ### 2. Start the Frontend
 
-```bash
+bash
 cd "Project Files/frontend"
 npm install
 npm run dev
-```
 
 For more detailed setup instructions, including configuration and feature details, see the **[Project Files README](file:///c:/Users/homeu/LearnHub/Project%20Files/README.md)**.
 
----
 
 ## ✨ Features
 
